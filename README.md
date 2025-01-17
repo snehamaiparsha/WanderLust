@@ -4,9 +4,9 @@ Wander-Lust is a web application designed for travel enthusiasts to discover, sh
 # Tech Stack
 **HTML5, CSS3, JavaScript:** Fundamental web technologies for building user interfaces and implementing interactive features.
 
-**Node.js and Express.js:** The backbone of the application, facilitating rapid development and efficient server-side logic handling.
+**Node.js and Express.js**: The backbone of the application, facilitating rapid development and efficient server-side logic handling.
 
-**MongoDB: **Empowers data storage with its flexible NoSQL database, seamlessly integrating CRUD operations for managing travel-related content.
+**MongoDB**Empowers data storage with its flexible NoSQL database, seamlessly integrating CRUD operations for managing travel-related content.
 
 **Cloudinary: **Enables effortless image uploads and management, enhancing user experience with visually captivating travel imagery.
 
