@@ -4,38 +4,38 @@ Wanderlust is a feature-rich platform designed to connect property owners and tr
 The project incorporates interactive maps for property visualization, secure user authentication, image uploads for property listings, and a responsive design that adapts perfectly across devices. It combines cutting-edge tools and best practices in full-stack development, ensuring a robust and scalable architecture.
 
 # Technologies Used:
-**Node.js & Express.js**
+**Node.js & Express.js**:
 Backend development for handling server-side operations.
 
-**MongoDB**
+**MongoDB**:
 Efficient database for managing users and property data.
 
-MongoDB Atlas
+**MongoDB Atlas**:
 Cloud-based database deployment for reliability.
 
-Render
+**Render**:
 Hosting the application for seamless access.
 
-EJS
+**EJS**:
 For dynamic and visually appealing web pages.
 
-Bootstrap
+**Bootstrap**:
 Responsive and modern styling for a polished user interface.
 
-Mapbox
+**Mapbox**:
 Interactive maps for enhanced property visualization.
 
-Passport.js
+**Passport.js**:
 Secure user login and authentication.
 
-Cloudinary
+**Cloudinary**:
 Image storage and management for property photos.
 
-Multer
+**Multer**:
 File upload handling for user-generated content.
 
-Session & Cookie Management
+**Session & Cookie Management**:
 Smooth user experiences and secure sessions.
 
-REST APIs
+**REST APIs**:
 Backend and frontend communication for dynamic features.
