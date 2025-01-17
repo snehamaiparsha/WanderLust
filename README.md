@@ -1,5 +1,5 @@
 # Wanderlust
-Wander-Lust is a web application designed for travel enthusiasts to discover, share, and explore travel destinations, activities, and experiences. It leverages modern web technologies to provide a seamless user experience, including CRUD operations for managing content, image uploads, and secure authentication mechanisms.
+**Wander-Lust is a web application designed for travel enthusiasts to discover, share, and explore travel destinations, activities, and experiences. It leverages modern web technologies to provide a seamless user experience, including CRUD operations for managing content, image uploads, and secure authentication mechanisms.**
 
 # Tech Stack
 **HTML5, CSS3, JavaScript:** Fundamental web technologies for building user interfaces and implementing interactive features.
