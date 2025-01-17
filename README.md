@@ -6,9 +6,9 @@ Wander-Lust is a web application designed for travel enthusiasts to discover, sh
 
 **Node.js and Express.js**: The backbone of the application, facilitating rapid development and efficient server-side logic handling.
 
-**MongoDB**Empowers data storage with its flexible NoSQL database, seamlessly integrating CRUD operations for managing travel-related content.
+**MongoDB **:Empowers data storage with its flexible NoSQL database, seamlessly integrating CRUD operations for managing travel-related content.
 
-**Cloudinary: **Enables effortless image uploads and management, enhancing user experience with visually captivating travel imagery.
+**Cloudinary **:Enables effortless image uploads and management, enhancing user experience with visually captivating travel imagery.
 
 **Passport.js:** Implements secure authentication mechanisms, safeguarding user accounts and enabling personalized experiences.
 
@@ -18,4 +18,4 @@ Wander-Lust is a web application designed for travel enthusiasts to discover, sh
 
 **Geolocation and Geocoding**: Utilizes geolocation services for pinpointing user locations and converting addresses to geographic coordinates.
 
-**Bootstrap: **Front-end framework for designing responsive and mobile-first web pages, enhancing the application's visual appeal and usability.
+**Bootstrap **:Front-end framework for designing responsive and mobile-first web pages, enhancing the application's visual appeal and usability.
